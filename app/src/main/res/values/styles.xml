@@ -2,7 +2,7 @@
 <resources>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         ...
-
+        <item name="colorPrimary">@color/purple</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
